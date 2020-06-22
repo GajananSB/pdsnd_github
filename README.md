@@ -2,7 +2,7 @@
 22 June 2020
 
 ### Project Title
-Replace the Project Title
+pdsnd_github is the title of this project
 
 ### Description
 Describe what your project is about and what it does
