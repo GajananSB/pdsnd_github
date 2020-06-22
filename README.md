@@ -2,7 +2,7 @@
 22 June 2020
 
 ### Project Title
-pdsnd_github is the title of this project
+pdsnd_github is the title of this project.  This is part of my Udacity course.
 
 ### Description
 This project is about my Python assignment for Data Science course on Udacity.  It reads belows files interacting
