@@ -226,6 +226,10 @@ def user_stats(df):
 
 
 def main():
+    """
+    main function, which calls the individual functions to get the data from the different cities and 
+    displays the statistics of the data
+    """
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
