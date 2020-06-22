@@ -214,7 +214,7 @@ def user_stats(df):
         print("{} : {}".format(k,v))
 
     # Display earliest, most recent, and most common year of birth
-    #if df.has_key('Birth Year'):
+    # The data is displayed only if 'Birth Year' column is present in the main dictionary
     if 'Birth Year' in df:
         print("\nEarliest year of birth is: {}".format(df['Birth Year'].min()))
         print("\nMost recent year of birth is: {}".format(df['Birth Year'].max()))
