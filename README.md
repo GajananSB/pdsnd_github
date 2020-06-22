@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+22 June 2020
 
 ### Project Title
-Replace the Project Title
+pdsnd_github is the title of this project.  This is part of my Udacity course.
 
 ### Description
-Describe what your project is about and what it does
+This project is about my Python assignment for Data Science course on Udacity.  It reads belows files interacting
+with users and displays the statistics of the data available for the three cities namely
+Chicago, New York City & Washington.
+These files are not added to GIT, they are part of gitignore file.
+
 
 ### Files used
-Include the files used
+Chicago.cvs
+new york city.cvs
+washington.cvs
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+This is created by Gajanan S Bhatarkar as part of Udacity project
